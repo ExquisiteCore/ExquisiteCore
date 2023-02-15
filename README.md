@@ -3,7 +3,7 @@
 
 ![ExquisiteCore's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExquisiteCore&card_width=495&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExquisiteCore&card_width=445&layout=compact&theme=dracula)
-<!--
+
 **ExquisiteCore/ExquisiteCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
