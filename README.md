@@ -1,6 +1,6 @@
 ### 你好，我是 ExquisiteCore 👋
 ![头像](https://ooo.0x0.ooo/2023/12/22/OKg1cM.webp)
-#### 🎄 访客 (2022/6/1 号开始) 🎄
+#### 🎄 访客 🎄
 ![](https://moe-counter.glitch.me/get/@exquisitecore?theme=meborru)
 欢迎访问我的[博客](https://mzdluo123.github.io/)
 - 一名热爱开源的中国学生.
