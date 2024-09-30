@@ -2,7 +2,7 @@
 ![头像](https://ooo.0x0.ooo/2023/12/22/OKg1cM.webp)
 #### 🎄 访客 🎄
 ![](https://moe-counter.glitch.me/get/@exquisitecore?theme=meborru)
-欢迎访问我的[博客](blog.exquisitecore.xyz)
+欢迎访问我的[博客](https://exquisitecore.xyz)
 - 一名热爱开源的中国学生.
 - 动漫爱好者
 - 喜欢生电但不精通的Minecraft玩家
